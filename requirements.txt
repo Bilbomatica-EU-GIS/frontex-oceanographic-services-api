@@ -1,0 +1,9 @@
+###### Requirements ######
+flask
+flask-restplus
+flask-cors
+apispec
+apispec-webframeworks
+marshmallow
+requests
+pyproj 
