@@ -52,9 +52,19 @@
       "Units": "Douglas scale"
     },
     {
-      "ParameterName": "Tide state ",
+      "ParameterName": "Tide height",
       "ParameterId": "Tides",
-      "Units": ""
+      "Units": "m"
+    },
+    {
+      "ParameterName": "Tides height",
+      "ParameterId": "Tides-Isolines",
+      "Units": "m"
+    },
+    {
+      "ParameterName": "Significant wave height",
+      "ParameterId": "Wave-Height",
+      "Units": "m"
     }
   ]
 }
